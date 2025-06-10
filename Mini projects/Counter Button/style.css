@@ -1,0 +1,35 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+    margin-top: 5rem;
+}
+.button{
+    display: block;
+    text-align: center; 
+    margin-top: 2rem;   
+}
+#decrease{
+    color: red;
+    border-radius: 10px;
+    font-size: 4rem;
+
+}
+#decrease:hover{
+    background-color: rgb(183, 183, 183);
+}
+#reset{
+    border-radius: 10px;
+    font-size: 4rem;
+}
+#reset:hover{
+    background-color: rgb(183, 183, 183);
+}
+#increase{
+    color: green;
+    border-radius: 10px;
+    font-size: 4rem;
+}
+#increase:hover{
+    background-color: rgb(183, 183, 183);
+}
